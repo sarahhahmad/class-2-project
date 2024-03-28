@@ -15,7 +15,7 @@
 }
 
 .card:hover {
-    background-color: #7e88d7;
+    background-color: #ccc;
     cursor: pointer;
 }
 
@@ -28,7 +28,7 @@
 }
 
 #column-right {
-    background-color: orange;
+    background-color: rgb(80, 129, 81);
     background-size: cover;
     text-align: center;
     padding-top: 30px;
