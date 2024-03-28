@@ -1,0 +1,35 @@
+* {
+    font-family: sans-serif
+}
+
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 0 0 6px 0;
+}
+
+.card:hover {
+    background-color: #7e88d7;
+    cursor: pointer;
+}
+
+.column {
+    flex: 50%;
+}
+
+.artist-name {
+    font-size: 10px;
+}
+
+#column-right {
+    background-color: orange;
+    background-size: cover;
+    text-align: center;
+    padding-top: 30px;
+}
