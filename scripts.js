@@ -14,4 +14,8 @@ $('.card').on('click', function () {
     if (artist === 'radiohead') {
         $('#column-right').css('background-image', 'url("https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png")')
     }
+
+    if (artist === 'The 1975') {
+        $('#column-right').css('background-image', 'url("https://upload.wikimedia.org/wikipedia/en/d/d7/The_1975_-_Being_Funny_in_a_Foreign_Language.png")')
+    }
 })

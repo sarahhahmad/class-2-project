@@ -29,7 +29,9 @@
 
 #column-right {
     background-color: rgb(80, 129, 81);
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     text-align: center;
     padding-top: 30px;
+    height:50w;
 }
